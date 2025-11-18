@@ -1,6 +1,6 @@
 <h3 align="center">About Me</h3>
 
-<p align="center">I'm an 18 year old Translation & Interpreting student with a huge passion to create video games. I mostly use Game Maker for game development; however as for 3D content I use Unreal Engine 5.</p>
+<p align="center">I'm an 19 year old Translation & Interpreting student with a huge passion to create video games. I mostly use Game Maker for game development; however as for 3D content I use Unreal Engine 5.</p>
 
 <h3 align="center">Social Media</h3>
 
